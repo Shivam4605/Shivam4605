@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kolekar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam4605&label=Profile%20views&color=0e75b6&style=flat" alt="shivam4605" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter And Dart**
 
 - 💬 Ask me about **Flutter And Dart**
 
