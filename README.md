@@ -145,7 +145,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 ---
 
 
-# 🚀 Other Projects
+# 🚀 Projects
 
 📱 **Flutter + FastAPI Task Management App**
 
