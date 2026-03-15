@@ -46,14 +46,12 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 ---
 
-## 🌐 My Portfolio
+# 🌐 My Portfolio
 
 <p align="center">
 
 <a href="https://shivamkolekar-portfolio.netlify.app/" target="_blank">
 
-<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/> -->
-<!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/> -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </a>
@@ -61,38 +59,38 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 </p>
 
 <p align="center">
-Click the image above to visit my Portfolio 🚀
+🚀 Click the image above to visit my Portfolio
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced Flutter Concepts  
-- FastAPI Backend Development  
-- Clean Architecture in Flutter  
-- Animations in Flutter  
-- Cloud Deployment (**Render Cloud & Google Cloud Platform**)
-
----
-
-## 💬 Ask Me About
-
-- Flutter Development  
-- Dart Programming  
-- REST API Integration  
-- FastAPI Backend  
-- Firebase Integration  
+* Advanced Flutter Concepts
+* FastAPI Backend Development
+* Clean Architecture in Flutter
+* Animations in Flutter
+* Cloud Deployment (**Render Cloud & Google Cloud Platform**)
 
 ---
 
-## 📫 How to Reach Me
+# 💬 Ask Me About
 
-📧 **Email:** shivamkolekar8@gmail.com
+* Flutter Development
+* Dart Programming
+* REST API Integration
+* FastAPI Backend
+* Firebase Integration
 
 ---
 
-## 🤝 Connect With Me
+# 📫 How to Reach Me
+
+📧 **Email:** [shivamkolekar8@gmail.com](mailto:shivamkolekar8@gmail.com)
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
 
@@ -104,7 +102,7 @@ Click the image above to visit my Portfolio 🚀
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 <p align="left">
 
@@ -114,7 +112,7 @@ Click the image above to visit my Portfolio 🚀
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -126,17 +124,43 @@ Click the image above to visit my Portfolio 🚀
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam4605&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam4605&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🚀 Projects
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam4605&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam4605&repo=flutter_fastAPI_application_FroontEnd_repo&theme=tokyonight" />
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam4605&repo=flutter_fastAPI_backend_repo&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+# 🚀 Other Projects
 
 📱 **Flutter + FastAPI Task Management App**
 
@@ -150,6 +174,18 @@ Click the image above to visit my Portfolio 🚀
 
 ---
 
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 <h3 align="center">
+
 ⭐ Always learning, building, and improving as a Flutter Developer
+
 </h3>
