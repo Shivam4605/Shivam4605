@@ -144,21 +144,6 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam4605&repo=flutter_fastAPI_application_FroontEnd_repo&theme=tokyonight" />
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivam4605&repo=flutter_fastAPI_backend_repo&theme=tokyonight" />
-</a>
-
-</p>
-
----
 
 # 🚀 Other Projects
 
