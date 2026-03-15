@@ -44,7 +44,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/> -->
 <!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/> -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
 
 </a>
 
