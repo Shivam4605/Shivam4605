@@ -43,7 +43,8 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 <a href="https://shivamkolekar-portfolio.netlify.app/" target="_blank">
 
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/> -->
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/> -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
 
 </a>
 
