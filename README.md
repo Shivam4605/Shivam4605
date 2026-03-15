@@ -36,6 +36,24 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 ---
 
+## 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://shivamkolekar-portfolio.netlify.app/" target="_blank">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+
+</a>
+
+</p>
+
+<p align="center">
+Click the image above to visit my Portfolio 🚀
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced Flutter Concepts  
