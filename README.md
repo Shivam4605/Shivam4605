@@ -18,7 +18,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 ## 👨‍💻 About Me
 
-🎓 Final Year **Computer Engineering Student**
+🎓 Third Year **Computer Engineering Student**
 
 📱 Passionate about building **Cross Platform Mobile Applications using Flutter**
 
