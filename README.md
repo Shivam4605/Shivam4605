@@ -66,7 +66,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 <p align="left">
 
-<a href="https://linkedin.com/in/shivam-kolekar" target="_blank">
+<a href="https://www.linkedin.com/in/shivam-kolekar-b210172ba/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
