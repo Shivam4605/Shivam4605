@@ -109,6 +109,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 <!-- <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,firebase,postgres,mysql,java,git,github,vscode,hive" /> -->
 <img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,firebase,postgres,mysql,java,git,github,vscode" />
 <img src="https://pbs.twimg.com/media/GIaH54aXkAAcoWt.jpg" width="48"/>
+<img src="https://i.ytimg.com/vi/bihC6ou8FqQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAG5kejooymfeiZqJ8X-2O5e9qBJg" width="48"/>
 
 </p>
 
