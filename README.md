@@ -292,7 +292,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-<img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo.png" width="48"/>
+<img src="https://pbs.twimg.com/media/GIaH54aXkAAcoWt.jpg" width="48"/>
 </p>
 
 ---
