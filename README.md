@@ -275,7 +275,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 ## 💻 Languages & Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi,html,css" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi" />
 </p>
 
 ---
@@ -291,7 +291,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo.png" width="48"/>
 </p>
 
