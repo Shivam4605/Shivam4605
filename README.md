@@ -185,7 +185,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer;REST+API+Integration;FastAPI+Backend+Integration;Firebase+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Flutter+Developer;REST+API+Integration;Backend+Learning+and+Integration;Firebase+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -204,11 +204,9 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 🔗 Experienced with **REST API Integration & API Binding**
 
-⚡ Backend development experience with **FastAPI**
-
 🔥 Hands-on experience with **Firebase Services**
 
-🗄️ Worked with **PostgreSQL & MySQL**
+🗄️ Worked with **MySQL**
 
 🧠 Curious about **Mobile App Architecture & Backend Communication**
 
@@ -247,7 +245,6 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 • Flutter Development
 • Dart Programming
 • REST API Integration
-• FastAPI Backend
 • Firebase Integration
 
 ---
