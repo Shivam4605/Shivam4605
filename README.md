@@ -286,7 +286,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,hive" />
 <img src="https://pbs.twimg.com/media/GIaH54aXkAAcoWt.jpg" width="48"/>
 </p>
 
