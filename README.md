@@ -270,7 +270,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 ## 💻 Languages & Frameworks & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi,vscode,andriod_studio" />
 </p>
 
 ---
