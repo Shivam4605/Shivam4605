@@ -196,7 +196,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 # 👨‍💻 About Me
 
-🎓 Final Year **Computer Engineering Student**
+🎓 Third Year **Computer Engineering Student**
 
 📱 Passionate about building **Cross Platform Mobile Applications using Flutter**
 
@@ -205,8 +205,6 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 🔗 Experienced with **REST API Integration & API Binding**
 
 🔥 Hands-on experience with **Firebase Services**
-
-🗄️ Worked with **MySQL**
 
 🧠 Curious about **Mobile App Architecture & Backend Communication**
 
@@ -269,10 +267,10 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 # 🛠️ Tech Stack
 
-## 💻 Languages & Frameworks
+## 💻 Languages & Frameworks & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi,vscode" />
 </p>
 
 ---
