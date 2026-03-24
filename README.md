@@ -267,7 +267,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 
 # 🛠️ Tech Stack
 
-## 💻 Languages & Frameworks & Tools
+## 💻 Languages | Frameworks | Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,fastapi,vscode,androidstudio,postman" />
