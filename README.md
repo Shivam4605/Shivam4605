@@ -111,14 +111,13 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 </p>
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shivam4605&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam4605&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam4605&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivam4605&theme=tokyonight"/>
 
 </p>
 
