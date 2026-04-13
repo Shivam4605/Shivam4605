@@ -51,10 +51,10 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 # 🌱 Currently Learning
 
 • Advanced Flutter Concepts
-• FastAPI Backend Development
+• Backend Development
 • Clean Architecture in Flutter
 • Animations in Flutter
-• Cloud Deployment (**Google Cloud Platform**)
+• Cloud Deployment (**GCP,AWS**)
 
 ---
 
