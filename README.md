@@ -98,7 +98,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner
 ## ☁️ Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,firebase,gcp" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,firebase,gcp,githubactions" />
 </p>
 
 ---
