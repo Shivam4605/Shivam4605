@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kolekar</h1>
 
 <h3 align="center">
-Flutter Developer • Mobile App Enthusiast • Backend Integration Learner DevOps Enthusiast
+Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • DevOps Enthusiast
 </h3>
 
 <p align="center">
