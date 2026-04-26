@@ -221,7 +221,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 # 🚀 What I'm Learning Now
 
 ### 📱 Flutter Development
-✔ State Management (Provider / Riverpod / Bloc)  
+✔ State Management (Provider / GetX / Bloc / Cubit)  
 ✔ Clean Architecture  
 ✔ API Integration  
 ✔ Firebase Auth & Firestore  
