@@ -181,7 +181,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Cross+Platform+App+Builder;REST+API+Integration;Firebase+Developer;Docker+%7C+AWS+%7C+GitHub+Actions;Spring+Boot+Deployment;Always+Learning+New+Technologies;DevOps+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Cross+Platform+App+Builder;REST+API+Integration;Firebase+Developer;Docker+%7C+AWS+%7C+GitHub+Actions;Always+Learning+New+Technologies;DevOps+Enthusiast"/>
 </p>
 
 <p align="center">
