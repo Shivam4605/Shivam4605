@@ -199,7 +199,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 🚀 Exploring **Advanced Flutter Development & Clean Architecture**  
 ☁️ Learning **Cloud Computing, AWS, Docker & CI/CD Pipelines**  
 🔥 Interested in **Backend Development & API Integrations**  
-🛠️ Hands-on with **Firebase, Spring Boot, Docker, GitHub Actions**  
+🛠️ Hands-on with **Firebase, Docker, GitHub Actions**  
 📈 Goal: Become a **Skilled Software Engineer + DevOps Engineer**
 
 ---
@@ -230,7 +230,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 
 ### ☁️ DevOps & Cloud
 ✔ Docker & Docker Compose  
-✔ AWS EC2 / IAM / VPC / S3  
+✔ Amazon Web Services
 ✔ GitHub Actions CI/CD  
 ✔ Linux Commands & Shell Scripting  
 ✔ Nginx Reverse Proxy  
@@ -241,6 +241,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 # 💬 Ask Me About
 
 ✅ Flutter Development  
+✅ Java Programing  
 ✅ Dart Programming  
 ✅ REST APIs  
 ✅ Firebase Integration  
@@ -268,13 +269,13 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 ## 💻 Languages / Frameworks
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,spring,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java" />
 </p>
 
 ## 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
 </p>
 
 ## ☁️ DevOps / Cloud
@@ -291,7 +292,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ---
 
@@ -329,17 +330,6 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 
 ### Tech Used:
 `Java` `Spring Boot` `Docker` `GitHub Actions` `AWS EC2`
-
----
-
-## 📦 4. Dockerized Full Stack Deployment
-
-🔹 Created custom Docker images for frontend & backend.  
-🔹 Used Docker networking for container communication.  
-🔹 Managed container ports, volumes and environment variables.  
-
-### Tech Used:
-`Docker` `Linux` `Networking`
 
 ---
 
