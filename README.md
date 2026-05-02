@@ -287,7 +287,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 ## 🧰 Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,cloude,chatgpt" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma" />
 </p>
 
 ---
