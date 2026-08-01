@@ -177,7 +177,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 <h1 align="center">Hi 👋, I'm Shivam Kolekar</h1>
 
 <h3 align="center">
-🚀 Flutter Developer | ☁️ DevOps Enthusiast | 📱 Mobile App Builder | 🔥 Cloud Learner
+🚀 Flutter Developer | 📱 Mobile App Builder | 
 </h3>
 
 <p align="center">
@@ -195,12 +195,12 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 # 👨‍💻 About Me
 
 🎓 Third Year **Computer Engineering Student**  
-📱 Passionate about creating **Cross Platform Mobile Applications using Flutter**  
+📱 Passionate about creating **Cross Platform Mobile Applications using Flutter** And Native Android Developement
 🚀 Exploring **Advanced Flutter Development & Clean Architecture**  
-☁️ Learning **Cloud Computing, AWS, Docker & CI/CD Pipelines**  
+☁️ Learning **Docker & CI/CD Pipelines**  
 🔥 Interested in **Backend Development & API Integrations**  
-🛠️ Hands-on with **Firebase, Docker, GitHub Actions**  
-📈 Goal: Become a **Skilled Software Engineer + DevOps Engineer**
+🛠️ Hands-on with **Firebase, Docker**  
+📈 Goal: Become a **Skilled Software Engineer**
 
 ---
 
@@ -221,32 +221,24 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 # 🚀 What I'm Learning Now
 
 ### 📱 Flutter Development
-✔ State Management (Provider / GetX / Bloc / Cubit)  
+✔ State Management (Provider / GetX / Bloc / Cubit, Riverpod)  
 ✔ Clean Architecture  
 ✔ API Integration  
-✔ Firebase Auth & Firestore  
-✔ Payment Gateway Integration  
+✔ Firebase Auth, Storage & Firestore   
+✔ Payment Gateway Integration Such as Stripe  
 ✔ Responsive UI & Animations  
 
-### ☁️ DevOps & Cloud
-✔ Docker & Docker Compose  
-✔ Amazon Web Services
-✔ GitHub Actions CI/CD  
-✔ Linux Commands & Shell Scripting  
-✔ Nginx Reverse Proxy  
-✔ Deployment Automation  
-
----
 
 # 💬 Ask Me About
 
 ✅ Flutter Development  
 ✅ Java Programing  
 ✅ Dart Programming  
+✅ Kotlin Programming  
+✅ State Management (Provider / GetX / Riverpod) 
 ✅ REST APIs  
 ✅ Firebase Integration  
 ✅ Docker & Containerization  
-✅ AWS Basics  
 ✅ CI/CD Pipelines  
 ✅ Git & GitHub  
 
@@ -281,7 +273,7 @@ Flutter Developer • Mobile App Enthusiast • Backend Integration Learner • 
 ## ☁️ DevOps / Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,linux,bash,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash" />
 </p>
 
 ## 🧰 Tools
