@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;Cross+Platform+App+Builder;REST+API+Integration;Firebase+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Mobile+Engineer;Flutter+Developer;Cross+Platform+App+Builder;REST+API+Integration;Firebase+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
