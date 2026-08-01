@@ -19,7 +19,7 @@
 # 👨‍💻 About Me
 
 🎓 Final Year **Computer Engineering Student**  
-📱 Passionate about creating **Cross Platform Mobile Applications using Flutter** And Native Android Developement
+📱 Passionate about creating **Cross Platform Mobile Applications using Flutter And Native Android Developement** 
 🚀 Exploring **Advanced Flutter Development & Clean Architecture**  
 ☁️ Learning **Docker & CI/CD Pipelines**  
 🔥 Interested in **Backend Development & API Integrations**  
