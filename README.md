@@ -27,21 +27,6 @@
 🛠️ Hands-on with **Firebase, Docker**  
 📈 Goal: Become a **Skilled Software Engineer**
 
----
-
-# 🌐 Portfolio
-
-<p align="center">
-<a href="https://shivamkolekar-portfolio.netlify.app/" target="_blank">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-</a>
-</p>
-
-<p align="center">
-🚀 Click Above to Visit My Portfolio
-</p>
-
----
 
 # 🚀 What I'm Learning Now
 
